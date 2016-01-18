@@ -1,0 +1,28 @@
+name: MelissaMGreen
+favicon: null
+layout_spectrum: 0.801925880368799
+typography_spectrum: 0.6462876803707331
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8078641488682479
+  lightness: 0.23024230264127254
+  saturation: 0.3983666473068297
+  rhythmicContrast: 0.3185143703594804
+purpose: []
